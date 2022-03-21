@@ -1,0 +1,53 @@
+.footer{
+    background: #252429;
+    padding:  30px 0;
+}
+.footer_1 h5{
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.footer_1 p{
+    color: #bbbbbb;
+}
+.face{
+    padding:4px  8px;
+    background: #008ef1;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.face i{
+    color: #fff;
+}
+.location a:hover{
+    color: #CD2122;
+}
+.copyright{
+    background: #1F1E23;
+    color: #bbbbbb;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon_message{
+   width: 60px;
+   height: 60px;
+    background: #ff7e29;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+.icon_message i{
+    font-size: 30px;
+    color: #fff;
+}
+.hide{
+    display:  none;
+}
